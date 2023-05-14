@@ -12,3 +12,7 @@ Type these names in the applications list. If your mac is setup to show all exte
 
 When filled out all the app-names you can simply save the file and run it with following command. </br>
 `python3 main.py`
+
+## Warning
+
+These files **DON'T** go first to your bin but are immidiatly removed from your computer. Use this script on own risk and always check the code yourself if it doesn't have any mallicious intends as this is good practice for any code you execute. Also I'm not responsible for any applications that stop functioning as a result of the script and you yourself are also responsible for modifying the script to your own needs.
