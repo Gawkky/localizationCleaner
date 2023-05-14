@@ -10,5 +10,5 @@ This is fairly simple and straightforward. You go to your Applications folder on
 
 Type these names in the applications list. If your mac is setup to show all extensions don't add the .app extension as the script does take care of this by itself.
 
-When filled out all the app-names you can simply save the file and run it with following command.
+When filled out all the app-names you can simply save the file and run it with following command. </br>
 `python3 main.py`
