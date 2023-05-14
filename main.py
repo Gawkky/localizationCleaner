@@ -5,6 +5,7 @@ applications = ["MultiViewer for F1", "Google Chrome",
 
 for application in applications:
     folder_path = f"/Applications/{application}.app/Contents/Resources/"
+    print(f"Taking care of localization files in {application}.")
     for root, dirs, files in os.walk(folder_path):
         for file in files:
             if file.endswith(".lproj") and not file.startswith("base."):
